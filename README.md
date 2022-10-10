@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" height="200"/>
 </div>
 <!---
 ugurberkergun/ugurberkergun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

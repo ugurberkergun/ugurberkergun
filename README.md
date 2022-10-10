@@ -1,17 +1,12 @@
-- 👋 Hi, I’m @ugurberkergun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240" height="180"/>
-</div>
-
 <h1>
   hey there, I'm Uğur
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240" height="180"/>
+</div>
+
+
 - :telescope: I’m working as a Backend Developer.
 
 - :seedling: .Net Core & ReactJs tech stack

@@ -9,7 +9,7 @@
 
 - :telescope: I’m working as a Backend Developer.
 
-- :seedling: .Net Core & ReactJs tech stack
+- :seedling: .Net Core
 <div id="badges">
   <a href="https://www.linkedin.com/in/ugurberkergun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

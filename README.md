@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben Uğur! 👋</h1>
+<h1 align="center">hey there, I'm Uğur 👋</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240" height="180"/>

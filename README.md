@@ -1,16 +1,28 @@
-<h1>
-  hey there, I'm Uğur
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div id="header" align="center">
+<h1 align="center">Merhaba, Ben Uğur! 👋</h1>
+
+<div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240" height="180"/>
 </div>
 
+<p align="center">
+  <strong>Backend Developer</strong>
+</p>
 
-- :telescope: I’m working as a Backend Developer.
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20Core-blue?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core Badge"/>
+  <img src="https://img.shields.io/badge/GoLang-blue?style=for-the-badge&logo=go&logoColor=white" alt="GoLang Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+</p>
 
-- :seedling: .Net Core
-<div id="badges">
+### 🌱 Şu Anda Öğrenmekte Olduğum Konular
+
+- .NET Core
+- GoLang
+- TypeScript
+- React
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ugurberkergun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,11 +30,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-
-<!---
-<iframe src="https://giphy.com/embed/l0HlNaQ6gWfllcjDO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO">via GIPHY</a></p>
-ugurberkergun/ugurberkergun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

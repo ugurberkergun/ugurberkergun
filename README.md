@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
 </p>
 
-### 🌱 Şu Anda Öğrenmekte Olduğum Konular
-
-- .NET Core
-- GoLang
-- TypeScript
-- React
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ugurberkergun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
